@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Macbook Pro 13.3",
+      "price": 12000.99
+    },
+    {
+      "id": 2,
+      "name": "Mouse USB sem fio",
+      "price": 25.99
+    },
+    {
+      "id": 3,
+      "name": "Fone de ouvido Xiaomi",
+      "price": 179.99
+    }
+  ]
+}
